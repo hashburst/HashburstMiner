@@ -1,0 +1,23 @@
+{
+  "name": "HashburstMiner",
+  "version": "3.0.0",
+  "description": "RandomX, CryptoNight and Argon2 miner",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "build": "node scripts/generate_cl.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hashburst/HashburstMiner/HashburstMiner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/hashburst/HashburstMiner/HashburstMiner/issues"
+  },
+  "homepage": "https://github.com/hashburst/HashburstMiner/HashburstMiner#readme"
+}
