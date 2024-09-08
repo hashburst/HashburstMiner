@@ -17,5 +17,5 @@ The preferred way to configure the miner is the JSON config file as it is more f
 ## Donations to XRig Authors and Developer
 * Default donation to XMR Wallet: `48edfHu7V9Z84YzzMa6fUueoELZ9ZRXq9VetWzYGzKt52XU5xvqgzYnDK9URnRoJMk1j8nLwEVsaSWJ4fhdUyZijBGUicoD`
 * XMRig Developers:
-* ** https://github.com/xmrig
-* ** https://github.com/SChernykh
+* **[XMrig](https://github.com/xmrig)**
+* **[SChernykh](https://github.com/SChernykh)**
