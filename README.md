@@ -1,6 +1,6 @@
 # HashburstMiner
 
-HashburstMiner is a Fork of XRig that is a high performance, open source, cross platform RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark. Official binaries are available for Windows, Linux, macOS and FreeBSD.
+HashburstMiner is a Fork of [XMRig] (https://github.com/xmrig) that is a high performance, open source, cross platform RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner and RandomX benchmark. Official binaries are available for Windows, Linux, macOS and FreeBSD.
 
 ## Mining backends
 - **CPU** (x86/x64/ARMv7/ARMv8)
