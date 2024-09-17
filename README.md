@@ -20,4 +20,4 @@ The preferred way to configure the miner is the JSON config file as it is more f
 * **[XMrig](https://github.com/xmrig)**
 * **[SChernykh](https://github.com/SChernykh)**
 
-![HashburstMiner](https://github.com/user-attachments/assets/f6cc34b2-b154-4626-a006-ba59f0e09301)
+![HashburstMiner](https://github.com/user-attachments/assets/94bcc5da-0ff6-4705-882b-c2a6f6292ac8)
